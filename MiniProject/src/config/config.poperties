@@ -1,0 +1,12 @@
+browser=Chrome
+searchtextbox=//*[@id="twotabsearchtextbox"]
+searchbutton=//div[@class='nav-search-submit nav-sprite']
+addtocart=//*[@id="add-to-cart-button"]
+firstproductname=gas stoves  
+firstproductxpath=//body/div[@id='a-page']/div[@id='search']/div[1]/div[2]/div[1]/span[3]/div[2]/div[2]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]/div[1]/img[1]
+secondproductname=Table Lamp
+secondproductxpath=//body/div[@id='a-page']/div[@id='search']/div[1]/div[2]/div[1]/span[3]/div[2]/div[4]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/span[1]/a[1]/div[1]/img[1]
+thirdproductname=Iron Press
+thirdproductxpath=//body/div[@id='a-page']/div[@id='search']/div[1]/div[2]/div[1]/span[3]/div[2]/div[2]/div[1]/span[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a[1]/div[1]/img[1]
+price=//*[@id="hlb-subcart"]/div[1]/span/span[2]
+      
